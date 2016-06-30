@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Cache Money</string>
+	<string name= "overviewActivity">Overview</string>
+	<string name= "addExpenseActivity">Add Expense</string>
+	<string name= "addIncomeActivity">Add Income</string>
+	<string name="category_prompt">Choose a category</string>
+    <string-array name="categories_array">
+        <item>Income</item>
+        <item>Housing</item>
+        <item>Food</item>
+        <item>Medical / Dental</item>
+        <item>Auto</item>
+        <item>Entertainment</item>
+        <item>Personal Care / Clothing</item>
+        <item>Misc</item>
+        <item>Charitable Giving</item>
+        <item>Debts</item>
+        <item>Insurance</item>
+        <item>Investments / Savings</item>
+    </string-array>
+    <string name="frequency_prompt">Choose a category</string>
+    <string-array name="frequency_array">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+    <string name="ExpendituresView">Expenditures</string>
+</resources>

@@ -1,0 +1,342 @@
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Documents\GitHub\Cache_Money_2\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\Cache_Money_2 - Copy - Copy\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\Cache-Money\Cache_Money1.2Working_Pat_Last_Edit\Cache_Money1.1Working-DO-NOT-EDIT\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Documents\GitHub\Cache_Money\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Pat\Desktop\GitHub THursday\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\College\Year 2\Semester2\Software Engineering\CacheMoney\Thursday_Almost_There\New folder\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\com.techenginesystems.cache_money_2-Signed.apk
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.dll
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\Xamarin.Insights.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.pdb
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\android\bin\com.techenginesystems.cache_money_2.apk
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\values\strings.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\overview.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addexpense.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\addincome.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main2.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\register.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\registeruser.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\res\layout\main0.xml
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\R.cs.flag
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\uploadflags.txt
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\Cache_Money_2.dll.mdb
+C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\bin\Debug\Cache_Money_2.dll.mdb
