@@ -7,7 +7,8 @@ public class NativeUnhandledExceptionHandler
 		mono.android.IGCUserPeer,
 		java.lang.Thread.UncaughtExceptionHandler
 {
-	static final String __md_methods;
+/** @hide */
+	public static final String __md_methods;
 	static {
 		__md_methods = 
 			"n_uncaughtException:(Ljava/lang/Thread;Ljava/lang/Throwable;)V:GetUncaughtException_Ljava_lang_Thread_Ljava_lang_Throwable_Handler:Java.Lang.Thread/IUncaughtExceptionHandlerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
@@ -31,7 +32,7 @@ public class NativeUnhandledExceptionHandler
 
 	private native void n_uncaughtException (java.lang.Thread p0, java.lang.Throwable p1);
 
-	java.util.ArrayList refList;
+	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
 	{
 		if (refList == null)

@@ -1,18 +1,29 @@
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Cache_Money_2.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Mono.Data.Sqlite.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\mscorlib.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Core.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Data.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Data.SQLite.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Xml.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Xml.Linq.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Xamarin.Insights.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Runtime.Serialization.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.ServiceModel.Internals.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Transactions.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Numerics.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Mono.Data.Tds.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\Mono.Security.dll
-C:\Users\Jim\Desktop\New folder (2)\Cache_Money_2\Cache_Money_2\obj\Debug\assemblies\System.Net.Http.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Cache_Money_2.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Xml.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Mono.Android.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Mono.Data.Sqlite.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Data.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Java.Interop.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Core.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Xamarin.Insights.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Data.SQLite.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/mscorlib.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Net.Http.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Transactions.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Numerics.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/Mono.Data.Tds.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Threading.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Runtime.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Collections.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Collections.Concurrent.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Reflection.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Linq.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Runtime.InteropServices.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/patrick.buechler/Documents/Git/CacheMoney/Cache_Money_2/obj/Debug/android/assets/System.Reflection.Extensions.dll
